@@ -120,6 +120,8 @@ In this project, I will practice what I learnt so far on Git and Github. this in
 
 Here is a curated, chronologically ordered list of changes for each version of this project. 
 
+* 0.1.0 - 2022-05-24
+    * Add directories with bash files
 * 0.0.1 - 2022-05-24
     * Work in progress
 
